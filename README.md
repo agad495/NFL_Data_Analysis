@@ -1,6 +1,6 @@
 # NFL Data Analysis
 Data analysis R and Python scripts the results of which have (mostly) been posted to my Twitter (@AG_8).
-Most of the analysis is done using the nflscrapR and nflfastR datasets, which are two of the greatest free sources of sports data in the history of the world.
+Most of the analysis is done using the nflscrapR and nflfastR datasets, which are two of the greatest free sources of sports data in the history of the world (totally not exaggerating).
 
 # Available Scipts:
 
